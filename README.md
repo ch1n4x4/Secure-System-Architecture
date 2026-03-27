@@ -18,4 +18,4 @@ Design a secure architecture for the PayLink system and explain how each securit
 - SABSA Framework
 
 ## Steps
-DESIGNING_A_SECURE_SYSTEM_ARCHITECTURE_CHINAZA_NNAMANI_SOE_025_5707.pdf
+<a href = "https://github.com/ch1n4x4/Secure-System-Architecture/blob/main/DESIGNING_A_SECURE_SYSTEM_ARCHITECTURE_CHINAZA_NNAMANI_SOE_025_5707.pdf">Secure Architecture</a>
