@@ -21,7 +21,7 @@ Design a secure architecture for the PayLink system and explain how each securit
 
 - **Discovery Phase:** Researched on FinTech companies to understand their goals and the needs of their audience. Explored how to build a secure architecture model using the SABSA framework. Defined the project scope and created a site map.
 - **Design Phase:** Designed a secure Architecture model that aligns with the SABSA framework.
-- **Development:** Developed a secure model using [Draw.io](http://Draw.io) with justification of threat mitigation and alignment with the SABSA framework.
+- **Development:** Developed a secure model using Draw.io with justification of threat mitigation and alignment with the SABSA framework.
 
 ### Outcome 
 
